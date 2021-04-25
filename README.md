@@ -1,6 +1,6 @@
 # kali-solved
 
-
+# could not get lock /var/lib/dpkg/lock [ SOLVED ]
 
 
 ``
